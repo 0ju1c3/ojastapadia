@@ -2,24 +2,24 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Home on Ojas Tapadia</title>
-    <link>http://localhost:43637/</link>
+    <link>https://example.org/</link>
     <description>Recent content in Home on Ojas Tapadia</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 29 Apr 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:43637/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://example.org/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Terminal Portfolio</title>
-      <link>http://localhost:43637/projects/hello/</link>
+      <link>https://example.org/projects/hello/</link>
       <pubDate>Mon, 29 Apr 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:43637/projects/hello/</guid>
+      <guid>https://example.org/projects/hello/</guid>
       <description>Built using jQuery terminal library&#xA;Code</description>
     </item>
     <item>
       <title>About Me</title>
-      <link>http://localhost:43637/about/</link>
+      <link>https://example.org/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:43637/about/</guid>
+      <guid>https://example.org/about/</guid>
       <description>Resume What I&amp;rsquo;m Into When I&amp;rsquo;m not coding, you&amp;rsquo;ll probably find me diving into one of the following&#xA;Projects: Always exploring new ideas and tackling interesting challenges. Reading: I have a passion for tech books, novels and occasionally philosophy. Neovim &amp;amp; Arch Linux: If I&amp;rsquo; m not doint the above, I might be lost in the depths of configuring my Arch Linux and Neovim setup. What I Do Best Backend Development: I&amp;rsquo;ve invested considerable time mastering backend technologies, but there&amp;rsquo;s always more to learn and explore.</description>
     </item>
   </channel>

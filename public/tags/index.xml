@@ -2,31 +2,31 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Ojas Tapadia</title>
-    <link>http://localhost:43637/tags/</link>
+    <link>https://example.org/tags/</link>
     <description>Recent content in Tags on Ojas Tapadia</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 29 Apr 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:43637/tags/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://example.org/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>JQuery</title>
-      <link>http://localhost:43637/tags/jquery/</link>
+      <link>https://example.org/tags/jquery/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:43637/tags/jquery/</guid>
+      <guid>https://example.org/tags/jquery/</guid>
       <description></description>
     </item>
     <item>
       <title>Portfolio</title>
-      <link>http://localhost:43637/tags/portfolio/</link>
+      <link>https://example.org/tags/portfolio/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:43637/tags/portfolio/</guid>
+      <guid>https://example.org/tags/portfolio/</guid>
       <description></description>
     </item>
     <item>
       <title>Terminal</title>
-      <link>http://localhost:43637/tags/terminal/</link>
+      <link>https://example.org/tags/terminal/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:43637/tags/terminal/</guid>
+      <guid>https://example.org/tags/terminal/</guid>
       <description></description>
     </item>
   </channel>

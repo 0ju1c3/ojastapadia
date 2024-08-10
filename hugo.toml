@@ -68,23 +68,20 @@ url = "https://github.com/0ju1c3"
 # Main menu pages
 [[params.menu]]
 name = "home"
-#url = "https://0ju1c3.github.io/ojastapadia/"
 url = "/"
 
 [[params.menu]]
 name = "projects"
 identifier = 'home'
-#url = "https://0ju1c3.github.io/ojastapadia/projects"
 url = "/projects"
 
 [[params.menu]]
 name = "about"
-#url = "https://0ju1c3.github.io/ojastapadia/about/"
 url = "/about"
 
 [[params.menu]]
 name = "Terminal Portfolio"
-url = "https://0ju1c3.github.io/terminalPortfolio/"
+url = "/terminalportfolio"
 
 # Syntax highligth on code blocks
 [markup]
