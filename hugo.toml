@@ -81,7 +81,7 @@ url = "/about"
 
 [[params.menu]]
 name = "Terminal Portfolio"
-url = "terminal.ojastapadia.in"
+url = "https://terminal.ojastapadia.in/"
 
 # Syntax highligth on code blocks
 [markup]
