@@ -6,14 +6,84 @@
     <description>Recent content in Home on Ojas Tapadia</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 29 Apr 2024 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 08 Aug 2024 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://example.org/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>Porfolio Website</title>
+      <link>https://example.org/projects/portfolio/</link>
+      <pubDate>Thu, 08 Aug 2024 00:00:00 +0000</pubDate>
+      <guid>https://example.org/projects/portfolio/</guid>
+      <description>The website that you are using now!&#xA;Built using hugo framework and deployed on vercel.&#xA;Code</description>
+    </item>
+    <item>
+      <title>Current Neovim Config</title>
+      <link>https://example.org/projects/currentnvimconfig/</link>
+      <pubDate>Mon, 29 Jul 2024 00:00:00 +0000</pubDate>
+      <guid>https://example.org/projects/currentnvimconfig/</guid>
+      <description>My current neovim config using kickstart.nvim and lazy.nvim plugin manager can be found here.&#xA;kickstart.nvim comes preconfigured with every important plugin that is required to make neovim into a fully-functioning-better-than-vscode(in my opinion) ide lazy.nvim is a super cool package manager with lazy loading PS: shoutout to Tj Devries and folke</description>
+    </item>
+    <item>
       <title>Terminal Portfolio</title>
-      <link>https://example.org/projects/hello/</link>
+      <link>https://example.org/projects/terminalportfolio/</link>
       <pubDate>Mon, 29 Apr 2024 00:00:00 +0000</pubDate>
-      <guid>https://example.org/projects/hello/</guid>
-      <description>Built using jQuery terminal library&#xA;Code</description>
+      <guid>https://example.org/projects/terminalportfolio/</guid>
+      <description>&lt;p&gt;Built using &lt;a href=&#34;https://terminal.jcubic.pl/&#34;&gt;jQuery terminal library&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://terminal.ojastapadia.in/&#34;&gt;Try it out here&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Tiling Window Managers</title>
+      <link>https://example.org/projects/windowmanagers/</link>
+      <pubDate>Sat, 02 Mar 2024 00:00:00 +0000</pubDate>
+      <guid>https://example.org/projects/windowmanagers/</guid>
+      <description>Hyprland Hyprland is a dynamic and modern Wayland compositor for Linux, specifically designed to offer flexibility, customization, and performance. As part of the new wave of Wayland compositors, it is built from the ground up with a focus on modern standards and advanced features, setting it apart from older X11-based window managers.&#xA;In my opinion, Hyprland is the best tiling window manager available today and has quickly become my favorite. If you&amp;rsquo;re interested, you can check out my personal configuration here.</description>
+    </item>
+    <item>
+      <title>First Neovim Config</title>
+      <link>https://example.org/projects/initialnvimconfig/</link>
+      <pubDate>Fri, 09 Feb 2024 00:00:00 +0000</pubDate>
+      <guid>https://example.org/projects/initialnvimconfig/</guid>
+      <description>My first and my own neovim config using packer.nvim.&#xA;Super proud of this config!</description>
+    </item>
+    <item>
+      <title>Contact Manager Backend using REST API</title>
+      <link>https://example.org/projects/contactmanagerapi/</link>
+      <pubDate>Sat, 03 Feb 2024 00:00:00 +0000</pubDate>
+      <guid>https://example.org/projects/contactmanagerapi/</guid>
+      <description>My first Backend REST API using nodejs, expressjs, mongodb. Find code here</description>
+    </item>
+    <item>
+      <title>ChatGPT Chatbot CLI</title>
+      <link>https://example.org/projects/chatgptchatbot/</link>
+      <pubDate>Mon, 15 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>https://example.org/projects/chatgptchatbot/</guid>
+      <description>Wanted to try out openai&amp;rsquo;s api when chatgpt first came along. Code</description>
+    </item>
+    <item>
+      <title>Web Audio Visualizer</title>
+      <link>https://example.org/projects/audiovisualizer/</link>
+      <pubDate>Sun, 29 Oct 2023 00:00:00 +0000</pubDate>
+      <guid>https://example.org/projects/audiovisualizer/</guid>
+      <description>My second project while exploring frontend domain outside of the cliche websites and use of html, css and js.&#xA;Implemented using WebAudio API, Canvas API and vanilla html, css and js.&#xA;Takes sound from microphone as input, so has its own bit of problems but got to learn about converting sound to numbers and create bars of appropriate length and use case of fast-fourier transforms which was being taught in my class at that time.</description>
+    </item>
+    <item>
+      <title>Bubbly - Web game</title>
+      <link>https://example.org/projects/bubbly/</link>
+      <pubDate>Sat, 23 Sep 2023 00:00:00 +0000</pubDate>
+      <guid>https://example.org/projects/bubbly/</guid>
+      <description>Made using Canvas API and vanilla html, css and js.&#xA;Learnt a lot about implementing game mechanics, fluid mechanics, physics, collision in javascript. Since, this was my first big project, I learnt why clean and organized codind is important and is pivotal in code readability.&#xA;Play&#xA;Code</description>
+    </item>
+    <item>
+      <title>Social Networking REST API</title>
+      <link>https://example.org/projects/socialnetworkingapi/</link>
+      <pubDate>Thu, 16 Mar 2023 00:00:00 +0000</pubDate>
+      <guid>https://example.org/projects/socialnetworkingapi/</guid>
+      <description>Built this as an internship task using MongoDB, Nodejs, Express&#xA;Code Overview Task is to design and implement a RESTful API for a basic social networking application using Node.js and MongoDB. The application will support user profiles, posts (text-based), and the ability to follow other users. Focus on backend development, emphasizing MongoDB for data storage, efficient data retrieval, and data relationship management.&#xA;Requirements User Profiles: Implement endpoints to create, update, view, and delete user profiles.</description>
+    </item>
+    <item>
+      <title>Mandelbrot set</title>
+      <link>https://example.org/projects/mandelbrotset/</link>
+      <pubDate>Sat, 29 Oct 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.org/projects/mandelbrotset/</guid>
+      <description>Huh, my first small project when I was dwiddling with CSE, as a fresher while I was still learning git. I managed to learn quite a bit about fractals, specifically mandelbrot set, how images are rendered, fractal zoom, setting colors to pixels and linear interpolation.&#xA;Opened my eyes to what things could be&amp;hellip;.&#xA;Github</description>
     </item>
     <item>
       <title>About Me</title>

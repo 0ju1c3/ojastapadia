@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Html on Ojas Tapadia</title>
+    <link>https://example.org/tags/html/</link>
+    <description>Recent content in Html on Ojas Tapadia</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 08 Aug 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://example.org/tags/html/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Porfolio Website</title>
+      <link>https://example.org/projects/portfolio/</link>
+      <pubDate>Thu, 08 Aug 2024 00:00:00 +0000</pubDate>
+      <guid>https://example.org/projects/portfolio/</guid>
+      <description>The website that you are using now!&#xA;Built using hugo framework and deployed on vercel.&#xA;Code</description>
+    </item>
+    <item>
+      <title>Web Audio Visualizer</title>
+      <link>https://example.org/projects/audiovisualizer/</link>
+      <pubDate>Sun, 29 Oct 2023 00:00:00 +0000</pubDate>
+      <guid>https://example.org/projects/audiovisualizer/</guid>
+      <description>My second project while exploring frontend domain outside of the cliche websites and use of html, css and js.&#xA;Implemented using WebAudio API, Canvas API and vanilla html, css and js.&#xA;Takes sound from microphone as input, so has its own bit of problems but got to learn about converting sound to numbers and create bars of appropriate length and use case of fast-fourier transforms which was being taught in my class at that time.</description>
+    </item>
+    <item>
+      <title>Bubbly - Web game</title>
+      <link>https://example.org/projects/bubbly/</link>
+      <pubDate>Sat, 23 Sep 2023 00:00:00 +0000</pubDate>
+      <guid>https://example.org/projects/bubbly/</guid>
+      <description>Made using Canvas API and vanilla html, css and js.&#xA;Learnt a lot about implementing game mechanics, fluid mechanics, physics, collision in javascript. Since, this was my first big project, I learnt why clean and organized codind is important and is pivotal in code readability.&#xA;Play&#xA;Code</description>
+    </item>
+  </channel>
+</rss>
