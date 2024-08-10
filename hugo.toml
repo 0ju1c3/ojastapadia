@@ -1,0 +1,102 @@
+languageCode = 'en-us'
+baseURL = 'https://example.org/'
+title = 'Ojas Tapadia'
+
+[module]
+[module.hugoVersion]
+extended = false
+min = "0.116.0"
+
+languageCode = 'en-us'
+title = 'My portfolio website'
+
+[taxonomies]
+tag = 'tags'
+
+# Google analytics code
+# googleAnalytics = "G-xxxxxxxxx"
+
+[params]
+# Meta description
+description = "Portfolio Website"
+
+# Appearance settings
+theme = 'auto'
+colorPalette = 'default'
+hideHeader = false
+
+# Intro on main page, content is markdown
+homeIntroTitle = 'Hi!'
+homeIntroContent = """
+I'm a third-year Computer Science and Engineering (CSE) student at VIT Vellore. 
+
+My journey into coding began with an intriguing experiment in the summer of 2019. Despite its quirks, this experiment turned out to be one of my best decisions, guiding me to a field I'm genuinely passionate about"""
+
+# Collection to display on home
+# homeCollectionTitle = 'Posts'
+# homeCollection = 'posts'
+
+# Lists parameters
+paginationSize = 100
+listSummaries = true
+listDateFormat = '2 Jan 2006'
+
+# Breadcrumbs
+breadcrumbs = true
+
+# Social icons
+[[params.social]]
+name = "linkedin"
+url = "https://www.linkedin.com/in/ojastapadia/"
+
+# [[params.social]]
+# name = "medium"
+# url = "https://medium.com/@user"
+[[params.social]]
+name = "email"
+url = "otapadia@gmail.com"
+
+
+[[params.social]]
+name = "instagram"
+url = "https://www.instagram.com/0ju1c3/"
+
+[[params.social]]
+name = "github"
+url = "https://github.com/0ju1c3"
+
+# Main menu pages
+[[params.menu]]
+name = "home"
+#url = "https://0ju1c3.github.io/ojastapadia/"
+url = "/"
+
+[[params.menu]]
+name = "projects"
+identifier = 'home'
+#url = "https://0ju1c3.github.io/ojastapadia/projects"
+url = "/projects"
+
+[[params.menu]]
+name = "about"
+#url = "https://0ju1c3.github.io/ojastapadia/about/"
+url = "/about"
+
+[[params.menu]]
+name = "Terminal Portfolio"
+url = "https://0ju1c3.github.io/terminalPortfolio/"
+
+# Syntax highligth on code blocks
+[markup]
+[markup.highlight]
+style = 'algol'
+
+# Giscus comments
+[params.giscus]
+enable = false
+repo = "user/repo"
+repoid = "repoId"
+category = "General"
+categoryid = "categoryId"
+mapping = "pathname"
+theme = "preferred_color_scheme"

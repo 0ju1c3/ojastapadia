@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <url>
+    <loc>http://localhost:43637/</loc>
+    <lastmod>2024-04-29T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:43637/tags/jquery/</loc>
+    <lastmod>2024-04-29T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:43637/tags/portfolio/</loc>
+    <lastmod>2024-04-29T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:43637/tags/</loc>
+    <lastmod>2024-04-29T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:43637/tags/terminal/</loc>
+    <lastmod>2024-04-29T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:43637/projects/hello/</loc>
+    <lastmod>2024-04-29T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:43637/projects/</loc>
+    <lastmod>2023-07-15T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:43637/about/</loc>
+  </url>
+</urlset>
