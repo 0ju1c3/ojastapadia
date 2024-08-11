@@ -12,7 +12,7 @@ When I'm not coding, you'll probably find me diving into one of the following
 
 * Projects: Always exploring new ideas and tackling interesting challenges.
 * Reading: I have a passion for tech books, novels and occasionally philosophy.
-* Neovim & Arch Linux: If I' m not doint the above, I might be lost in the depths of configuring my Arch Linux and Neovim setup.
+* Neovim & Arch Linux: If I' m not doing the above, I might be lost in the depths of configuring my Arch Linux and Neovim setup.
 
 What I Do Best
 --------------
