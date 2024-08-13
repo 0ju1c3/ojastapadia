@@ -2,24 +2,24 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Backend on Ojas Tapadia</title>
-    <link>https://example.org/tags/backend/</link>
+    <link>http://localhost:1313/tags/backend/</link>
     <description>Recent content in Backend on Ojas Tapadia</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Sat, 03 Feb 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://example.org/tags/backend/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/tags/backend/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Contact Manager Backend using REST API</title>
-      <link>https://example.org/projects/contactmanagerapi/</link>
+      <link>http://localhost:1313/projects/contactmanagerapi/</link>
       <pubDate>Sat, 03 Feb 2024 00:00:00 +0000</pubDate>
-      <guid>https://example.org/projects/contactmanagerapi/</guid>
+      <guid>http://localhost:1313/projects/contactmanagerapi/</guid>
       <description>My first Backend REST API using nodejs, expressjs, mongodb. Find code here</description>
     </item>
     <item>
       <title>Social Networking REST API</title>
-      <link>https://example.org/projects/socialnetworkingapi/</link>
+      <link>http://localhost:1313/projects/socialnetworkingapi/</link>
       <pubDate>Thu, 16 Mar 2023 00:00:00 +0000</pubDate>
-      <guid>https://example.org/projects/socialnetworkingapi/</guid>
+      <guid>http://localhost:1313/projects/socialnetworkingapi/</guid>
       <description>Built this as an internship task using MongoDB, Nodejs, Express&#xA;Code Overview Task is to design and implement a RESTful API for a basic social networking application using Node.js and MongoDB. The application will support user profiles, posts (text-based), and the ability to follow other users. Focus on backend development, emphasizing MongoDB for data storage, efficient data retrieval, and data relationship management.&#xA;Requirements User Profiles: Implement endpoints to create, update, view, and delete user profiles.</description>
     </item>
   </channel>

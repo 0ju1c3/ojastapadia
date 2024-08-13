@@ -28,4 +28,4 @@ I’m always up for a chat about tech, projects, or just to connect. Feel free t
 [1]: https://www.instagram.com/0ju1c3/
 [2]: https://www.linkedin.com/in/ojastapadia/
 [3]: www.github.com/0ju1c3
-[4]: https://drive.google.com/file/d/1Q4_2nZ8EfhIeRANbx-R6laV7IZisxI8x/view?usp=sharing
+[4]: http://resume.ojastapadia.in

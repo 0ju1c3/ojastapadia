@@ -2,24 +2,24 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Portfolio on Ojas Tapadia</title>
-    <link>https://example.org/tags/portfolio/</link>
+    <link>http://localhost:1313/tags/portfolio/</link>
     <description>Recent content in Portfolio on Ojas Tapadia</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 08 Aug 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://example.org/tags/portfolio/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/tags/portfolio/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Porfolio Website</title>
-      <link>https://example.org/projects/portfolio/</link>
+      <link>http://localhost:1313/projects/portfolio/</link>
       <pubDate>Thu, 08 Aug 2024 00:00:00 +0000</pubDate>
-      <guid>https://example.org/projects/portfolio/</guid>
+      <guid>http://localhost:1313/projects/portfolio/</guid>
       <description>The website that you are using now!&#xA;Built using hugo framework and deployed on vercel.&#xA;Code</description>
     </item>
     <item>
       <title>Terminal Portfolio</title>
-      <link>https://example.org/projects/terminalportfolio/</link>
+      <link>http://localhost:1313/projects/terminalportfolio/</link>
       <pubDate>Mon, 29 Apr 2024 00:00:00 +0000</pubDate>
-      <guid>https://example.org/projects/terminalportfolio/</guid>
+      <guid>http://localhost:1313/projects/terminalportfolio/</guid>
       <description>&lt;p&gt;Built using &lt;a href=&#34;https://terminal.jcubic.pl/&#34;&gt;jQuery terminal library&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://terminal.ojastapadia.in/&#34;&gt;Try it out here&lt;/a&gt;&lt;/p&gt;</description>
     </item>
   </channel>

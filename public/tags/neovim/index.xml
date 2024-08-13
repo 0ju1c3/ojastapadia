@@ -2,24 +2,24 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Neovim on Ojas Tapadia</title>
-    <link>https://example.org/tags/neovim/</link>
+    <link>http://localhost:1313/tags/neovim/</link>
     <description>Recent content in Neovim on Ojas Tapadia</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 29 Jul 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://example.org/tags/neovim/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/tags/neovim/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Current Neovim Config</title>
-      <link>https://example.org/projects/currentnvimconfig/</link>
+      <link>http://localhost:1313/projects/currentnvimconfig/</link>
       <pubDate>Mon, 29 Jul 2024 00:00:00 +0000</pubDate>
-      <guid>https://example.org/projects/currentnvimconfig/</guid>
+      <guid>http://localhost:1313/projects/currentnvimconfig/</guid>
       <description>My current neovim config using kickstart.nvim and lazy.nvim plugin manager can be found here.&#xA;kickstart.nvim comes preconfigured with every important plugin that is required to make neovim into a fully-functioning-better-than-vscode(in my opinion) ide lazy.nvim is a super cool package manager with lazy loading PS: shoutout to Tj Devries and folke</description>
     </item>
     <item>
       <title>First Neovim Config</title>
-      <link>https://example.org/projects/initialnvimconfig/</link>
+      <link>http://localhost:1313/projects/initialnvimconfig/</link>
       <pubDate>Fri, 09 Feb 2024 00:00:00 +0000</pubDate>
-      <guid>https://example.org/projects/initialnvimconfig/</guid>
+      <guid>http://localhost:1313/projects/initialnvimconfig/</guid>
       <description>My first and my own neovim config using packer.nvim.&#xA;Super proud of this config!</description>
     </item>
   </channel>

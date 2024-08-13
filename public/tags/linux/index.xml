@@ -2,31 +2,31 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Linux on Ojas Tapadia</title>
-    <link>https://example.org/tags/linux/</link>
+    <link>http://localhost:1313/tags/linux/</link>
     <description>Recent content in Linux on Ojas Tapadia</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 29 Jul 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://example.org/tags/linux/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/tags/linux/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Current Neovim Config</title>
-      <link>https://example.org/projects/currentnvimconfig/</link>
+      <link>http://localhost:1313/projects/currentnvimconfig/</link>
       <pubDate>Mon, 29 Jul 2024 00:00:00 +0000</pubDate>
-      <guid>https://example.org/projects/currentnvimconfig/</guid>
+      <guid>http://localhost:1313/projects/currentnvimconfig/</guid>
       <description>My current neovim config using kickstart.nvim and lazy.nvim plugin manager can be found here.&#xA;kickstart.nvim comes preconfigured with every important plugin that is required to make neovim into a fully-functioning-better-than-vscode(in my opinion) ide lazy.nvim is a super cool package manager with lazy loading PS: shoutout to Tj Devries and folke</description>
     </item>
     <item>
       <title>Tiling Window Managers</title>
-      <link>https://example.org/projects/windowmanagers/</link>
+      <link>http://localhost:1313/projects/windowmanagers/</link>
       <pubDate>Sat, 02 Mar 2024 00:00:00 +0000</pubDate>
-      <guid>https://example.org/projects/windowmanagers/</guid>
+      <guid>http://localhost:1313/projects/windowmanagers/</guid>
       <description>Hyprland Hyprland is a dynamic and modern Wayland compositor for Linux, specifically designed to offer flexibility, customization, and performance. As part of the new wave of Wayland compositors, it is built from the ground up with a focus on modern standards and advanced features, setting it apart from older X11-based window managers.&#xA;In my opinion, Hyprland is the best tiling window manager available today and has quickly become my favorite. If you&amp;rsquo;re interested, you can check out my personal configuration here.</description>
     </item>
     <item>
       <title>First Neovim Config</title>
-      <link>https://example.org/projects/initialnvimconfig/</link>
+      <link>http://localhost:1313/projects/initialnvimconfig/</link>
       <pubDate>Fri, 09 Feb 2024 00:00:00 +0000</pubDate>
-      <guid>https://example.org/projects/initialnvimconfig/</guid>
+      <guid>http://localhost:1313/projects/initialnvimconfig/</guid>
       <description>My first and my own neovim config using packer.nvim.&#xA;Super proud of this config!</description>
     </item>
   </channel>

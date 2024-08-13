@@ -2,38 +2,38 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Js on Ojas Tapadia</title>
-    <link>https://example.org/tags/js/</link>
+    <link>http://localhost:1313/tags/js/</link>
     <description>Recent content in Js on Ojas Tapadia</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 08 Aug 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://example.org/tags/js/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/tags/js/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Porfolio Website</title>
-      <link>https://example.org/projects/portfolio/</link>
+      <link>http://localhost:1313/projects/portfolio/</link>
       <pubDate>Thu, 08 Aug 2024 00:00:00 +0000</pubDate>
-      <guid>https://example.org/projects/portfolio/</guid>
+      <guid>http://localhost:1313/projects/portfolio/</guid>
       <description>The website that you are using now!&#xA;Built using hugo framework and deployed on vercel.&#xA;Code</description>
     </item>
     <item>
       <title>ChatGPT Chatbot CLI</title>
-      <link>https://example.org/projects/chatgptchatbot/</link>
+      <link>http://localhost:1313/projects/chatgptchatbot/</link>
       <pubDate>Mon, 15 Jan 2024 00:00:00 +0000</pubDate>
-      <guid>https://example.org/projects/chatgptchatbot/</guid>
+      <guid>http://localhost:1313/projects/chatgptchatbot/</guid>
       <description>Wanted to try out openai&amp;rsquo;s api when chatgpt first came along. Code</description>
     </item>
     <item>
       <title>Web Audio Visualizer</title>
-      <link>https://example.org/projects/audiovisualizer/</link>
+      <link>http://localhost:1313/projects/audiovisualizer/</link>
       <pubDate>Sun, 29 Oct 2023 00:00:00 +0000</pubDate>
-      <guid>https://example.org/projects/audiovisualizer/</guid>
+      <guid>http://localhost:1313/projects/audiovisualizer/</guid>
       <description>My second project while exploring frontend domain outside of the cliche websites and use of html, css and js.&#xA;Implemented using WebAudio API, Canvas API and vanilla html, css and js.&#xA;Takes sound from microphone as input, so has its own bit of problems but got to learn about converting sound to numbers and create bars of appropriate length and use case of fast-fourier transforms which was being taught in my class at that time.</description>
     </item>
     <item>
       <title>Bubbly - Web game</title>
-      <link>https://example.org/projects/bubbly/</link>
+      <link>http://localhost:1313/projects/bubbly/</link>
       <pubDate>Sat, 23 Sep 2023 00:00:00 +0000</pubDate>
-      <guid>https://example.org/projects/bubbly/</guid>
+      <guid>http://localhost:1313/projects/bubbly/</guid>
       <description>Made using Canvas API and vanilla html, css and js.&#xA;Learnt a lot about implementing game mechanics, fluid mechanics, physics, collision in javascript. Since, this was my first big project, I learnt why clean and organized codind is important and is pivotal in code readability.&#xA;Play&#xA;Code</description>
     </item>
   </channel>
