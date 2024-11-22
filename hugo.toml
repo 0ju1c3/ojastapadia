@@ -71,9 +71,9 @@ name = "home"
 url = "/"
 
 #[[params.menu]]
-#name = "projects"
-#identifier = 'home'
-#url = "/projects"
+name = "projects"
+identifier = 'home'
+url = "/projects"
 
 [[params.menu]]
 name = "about"
