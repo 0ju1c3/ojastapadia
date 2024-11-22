@@ -8,7 +8,7 @@ readTime: true
 
 About Me
 --------
-I’m a **founding backend developer** at **[InteractNow][5]** and **[AuraX][6]**, where I’ve had the chance to dive deep into backend architecture, build scalable systems, and tackle complex challenges. My journey started with a passion for coding and a knack for solving problems, which led me to these exciting roles.
+I’m a **founding backend developer** at **[InteractNow][5]** and **[AuraX][6]**, where I’ve had the chance to dive deep into backend architecture, build scalable systems, and tackle complex challenges. I am also **Full Stack Intern** at **[Preternatural AI]][7]** and **PRISM Intern** at [Samsung Research Institute-Bangalore][8]**. My journey started with a passion for coding and a knack for solving problems, which led me to these exciting roles.
 
 In addition to my startup work, I’ve been actively involved with VIT’s tech team, where I’ve organized events, judged competitions, and developed the backend for our tech community’s website. 
 
@@ -41,3 +41,5 @@ I’m always up for a chat about tech, projects, or just to connect. Feel free t
 [4]: http://resume.ojastapadia.in
 [5]: https://interactnow.in/
 [6]: https://www.aurax.co.in
+[7]: https://preternatural.ai/ 
+[8]: https://www.samsungprism.com/
