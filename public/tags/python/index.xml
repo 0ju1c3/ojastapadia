@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Python on Ojas Tapadia</title>
-    <link>http://localhost:1313/tags/python/</link>
+    <link>https://example.org/tags/python/</link>
     <description>Recent content in Python on Ojas Tapadia</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Sat, 29 Oct 2022 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/python/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://example.org/tags/python/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Mandelbrot set</title>
-      <link>http://localhost:1313/projects/mandelbrotset/</link>
+      <link>https://example.org/projects/mandelbrotset/</link>
       <pubDate>Sat, 29 Oct 2022 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/projects/mandelbrotset/</guid>
+      <guid>https://example.org/projects/mandelbrotset/</guid>
       <description>&lt;p&gt;Huh, my first small project when I was dwiddling with CSE, as a fresher while I was still learning git. I managed to learn quite a bit about fractals, specifically mandelbrot set, how images are rendered, fractal zoom, setting colors to pixels and linear interpolation.&lt;/p&gt;&#xA;&lt;p&gt;Opened my eyes to what things could be&amp;hellip;.&lt;/p&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://github.com/0ju1c3/Mandelbrot-set&#34;&gt;Github&lt;/a&gt;&lt;/p&gt;</description>
     </item>
   </channel>

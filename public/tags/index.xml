@@ -2,115 +2,115 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Ojas Tapadia</title>
-    <link>http://localhost:1313/tags/</link>
+    <link>https://example.org/tags/</link>
     <description>Recent content in Tags on Ojas Tapadia</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 08 Aug 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://example.org/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Css</title>
-      <link>http://localhost:1313/tags/css/</link>
+      <link>https://example.org/tags/css/</link>
       <pubDate>Thu, 08 Aug 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/css/</guid>
+      <guid>https://example.org/tags/css/</guid>
       <description></description>
     </item>
     <item>
       <title>Html</title>
-      <link>http://localhost:1313/tags/html/</link>
+      <link>https://example.org/tags/html/</link>
       <pubDate>Thu, 08 Aug 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/html/</guid>
+      <guid>https://example.org/tags/html/</guid>
       <description></description>
     </item>
     <item>
       <title>Js</title>
-      <link>http://localhost:1313/tags/js/</link>
+      <link>https://example.org/tags/js/</link>
       <pubDate>Thu, 08 Aug 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/js/</guid>
+      <guid>https://example.org/tags/js/</guid>
       <description></description>
     </item>
     <item>
       <title>Portfolio</title>
-      <link>http://localhost:1313/tags/portfolio/</link>
+      <link>https://example.org/tags/portfolio/</link>
       <pubDate>Thu, 08 Aug 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/portfolio/</guid>
+      <guid>https://example.org/tags/portfolio/</guid>
       <description></description>
     </item>
     <item>
       <title>Linux</title>
-      <link>http://localhost:1313/tags/linux/</link>
+      <link>https://example.org/tags/linux/</link>
       <pubDate>Mon, 29 Jul 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/linux/</guid>
+      <guid>https://example.org/tags/linux/</guid>
       <description></description>
     </item>
     <item>
       <title>Neovim</title>
-      <link>http://localhost:1313/tags/neovim/</link>
+      <link>https://example.org/tags/neovim/</link>
       <pubDate>Mon, 29 Jul 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/neovim/</guid>
+      <guid>https://example.org/tags/neovim/</guid>
       <description></description>
     </item>
     <item>
       <title>JQuery</title>
-      <link>http://localhost:1313/tags/jquery/</link>
+      <link>https://example.org/tags/jquery/</link>
       <pubDate>Mon, 29 Apr 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/jquery/</guid>
+      <guid>https://example.org/tags/jquery/</guid>
       <description></description>
     </item>
     <item>
       <title>Terminal</title>
-      <link>http://localhost:1313/tags/terminal/</link>
+      <link>https://example.org/tags/terminal/</link>
       <pubDate>Mon, 29 Apr 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/terminal/</guid>
+      <guid>https://example.org/tags/terminal/</guid>
       <description></description>
     </item>
     <item>
       <title>Ricing</title>
-      <link>http://localhost:1313/tags/ricing/</link>
+      <link>https://example.org/tags/ricing/</link>
       <pubDate>Sat, 02 Mar 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/ricing/</guid>
+      <guid>https://example.org/tags/ricing/</guid>
       <description></description>
     </item>
     <item>
       <title>Window-Manager</title>
-      <link>http://localhost:1313/tags/window-manager/</link>
+      <link>https://example.org/tags/window-manager/</link>
       <pubDate>Sat, 02 Mar 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/window-manager/</guid>
+      <guid>https://example.org/tags/window-manager/</guid>
       <description></description>
     </item>
     <item>
       <title>Backend</title>
-      <link>http://localhost:1313/tags/backend/</link>
+      <link>https://example.org/tags/backend/</link>
       <pubDate>Sat, 03 Feb 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/backend/</guid>
+      <guid>https://example.org/tags/backend/</guid>
       <description></description>
     </item>
     <item>
       <title>Express</title>
-      <link>http://localhost:1313/tags/express/</link>
+      <link>https://example.org/tags/express/</link>
       <pubDate>Sat, 03 Feb 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/express/</guid>
+      <guid>https://example.org/tags/express/</guid>
       <description></description>
     </item>
     <item>
       <title>Mongodb</title>
-      <link>http://localhost:1313/tags/mongodb/</link>
+      <link>https://example.org/tags/mongodb/</link>
       <pubDate>Sat, 03 Feb 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/mongodb/</guid>
+      <guid>https://example.org/tags/mongodb/</guid>
       <description></description>
     </item>
     <item>
       <title>Nodejs</title>
-      <link>http://localhost:1313/tags/nodejs/</link>
+      <link>https://example.org/tags/nodejs/</link>
       <pubDate>Sat, 03 Feb 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/nodejs/</guid>
+      <guid>https://example.org/tags/nodejs/</guid>
       <description></description>
     </item>
     <item>
       <title>Python</title>
-      <link>http://localhost:1313/tags/python/</link>
+      <link>https://example.org/tags/python/</link>
       <pubDate>Sat, 29 Oct 2022 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/python/</guid>
+      <guid>https://example.org/tags/python/</guid>
       <description></description>
     </item>
   </channel>

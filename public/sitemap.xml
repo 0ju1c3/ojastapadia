@@ -2,93 +2,93 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/tags/css/</loc>
+    <loc>https://example.org/tags/css/</loc>
     <lastmod>2024-08-08T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/</loc>
+    <loc>https://example.org/</loc>
     <lastmod>2024-08-08T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/html/</loc>
+    <loc>https://example.org/tags/html/</loc>
     <lastmod>2024-08-08T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/js/</loc>
+    <loc>https://example.org/tags/js/</loc>
     <lastmod>2024-08-08T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/projects/portfolio/</loc>
+    <loc>https://example.org/projects/portfolio/</loc>
     <lastmod>2024-08-08T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/portfolio/</loc>
+    <loc>https://example.org/tags/portfolio/</loc>
     <lastmod>2024-08-08T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/</loc>
+    <loc>https://example.org/tags/</loc>
     <lastmod>2024-08-08T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/projects/currentnvimconfig/</loc>
+    <loc>https://example.org/projects/currentnvimconfig/</loc>
     <lastmod>2024-07-29T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/linux/</loc>
+    <loc>https://example.org/tags/linux/</loc>
     <lastmod>2024-07-29T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/neovim/</loc>
+    <loc>https://example.org/tags/neovim/</loc>
     <lastmod>2024-07-29T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/jquery/</loc>
+    <loc>https://example.org/tags/jquery/</loc>
     <lastmod>2024-04-29T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/terminal/</loc>
+    <loc>https://example.org/tags/terminal/</loc>
     <lastmod>2024-04-29T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/projects/terminalportfolio/</loc>
+    <loc>https://example.org/projects/terminalportfolio/</loc>
     <lastmod>2024-04-29T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/ricing/</loc>
+    <loc>https://example.org/tags/ricing/</loc>
     <lastmod>2024-03-02T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/projects/windowmanagers/</loc>
+    <loc>https://example.org/projects/windowmanagers/</loc>
     <lastmod>2024-03-02T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/window-manager/</loc>
+    <loc>https://example.org/tags/window-manager/</loc>
     <lastmod>2024-03-02T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/projects/initialnvimconfig/</loc>
+    <loc>https://example.org/projects/initialnvimconfig/</loc>
     <lastmod>2024-02-09T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/backend/</loc>
+    <loc>https://example.org/tags/backend/</loc>
     <lastmod>2024-02-03T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/projects/contactmanagerapi/</loc>
+    <loc>https://example.org/projects/contactmanagerapi/</loc>
     <lastmod>2024-02-03T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/express/</loc>
+    <loc>https://example.org/tags/express/</loc>
     <lastmod>2024-02-03T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/mongodb/</loc>
+    <loc>https://example.org/tags/mongodb/</loc>
     <lastmod>2024-02-03T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/nodejs/</loc>
+    <loc>https://example.org/tags/nodejs/</loc>
     <lastmod>2024-02-03T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/projects/chatgptchatbot/</loc>
+    <loc>https://example.org/projects/chatgptchatbot/</loc>
     <lastmod>2024-01-15T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/projects/audiovisualizer/</loc>
+    <loc>https://example.org/projects/audiovisualizer/</loc>
     <lastmod>2023-10-29T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/projects/bubbly/</loc>
+    <loc>https://example.org/projects/bubbly/</loc>
     <lastmod>2023-09-23T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/projects/</loc>
+    <loc>https://example.org/projects/</loc>
     <lastmod>2023-07-15T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/projects/socialnetworkingapi/</loc>
+    <loc>https://example.org/projects/socialnetworkingapi/</loc>
     <lastmod>2023-03-16T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/projects/mandelbrotset/</loc>
+    <loc>https://example.org/projects/mandelbrotset/</loc>
     <lastmod>2022-10-29T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/python/</loc>
+    <loc>https://example.org/tags/python/</loc>
     <lastmod>2022-10-29T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/about/</loc>
+    <loc>https://example.org/about/</loc>
   </url>
 </urlset>

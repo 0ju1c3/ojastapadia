@@ -2,24 +2,24 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Neovim on Ojas Tapadia</title>
-    <link>http://localhost:1313/tags/neovim/</link>
+    <link>https://example.org/tags/neovim/</link>
     <description>Recent content in Neovim on Ojas Tapadia</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 29 Jul 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/neovim/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://example.org/tags/neovim/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Current Neovim Config</title>
-      <link>http://localhost:1313/projects/currentnvimconfig/</link>
+      <link>https://example.org/projects/currentnvimconfig/</link>
       <pubDate>Mon, 29 Jul 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/projects/currentnvimconfig/</guid>
+      <guid>https://example.org/projects/currentnvimconfig/</guid>
       <description>&lt;p&gt;My current neovim config using &lt;a href=&#34;https://github.com/folke/lazy.nvim&#34;&gt;kickstart.nvim&lt;/a&gt; and &lt;a href=&#34;https://github.com/nvim-lua/kickstart.nvim&#34;&gt;lazy.nvim plugin manager&lt;/a&gt; can be found &lt;a href=&#34;https://github.com/0ju1c3/kickstart-nvim/&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;kickstart.nvim comes preconfigured with every important plugin that is required to make neovim into a fully-functioning-better-than-vscode(in my opinion) ide&lt;/li&gt;&#xA;&lt;li&gt;lazy.nvim is a super cool package manager with lazy loading&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;PS: shoutout to Tj Devries and folke&lt;/p&gt;</description>
     </item>
     <item>
       <title>First Neovim Config</title>
-      <link>http://localhost:1313/projects/initialnvimconfig/</link>
+      <link>https://example.org/projects/initialnvimconfig/</link>
       <pubDate>Fri, 09 Feb 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/projects/initialnvimconfig/</guid>
+      <guid>https://example.org/projects/initialnvimconfig/</guid>
       <description>&lt;p&gt;My first and my own neovim config using packer.nvim.&lt;/p&gt;&#xA;&lt;p&gt;Super proud of this &lt;a href=&#34;https://github.com/0ju1c3/custom_nvim_config&#34;&gt;config!&lt;/a&gt;&lt;/p&gt;</description>
     </item>
   </channel>
