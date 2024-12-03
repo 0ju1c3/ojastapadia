@@ -13,7 +13,7 @@
       <link>http://localhost:1313/projects/mandelbrotset/</link>
       <pubDate>Sat, 29 Oct 2022 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/projects/mandelbrotset/</guid>
-      <description>Huh, my first small project when I was dwiddling with CSE, as a fresher while I was still learning git. I managed to learn quite a bit about fractals, specifically mandelbrot set, how images are rendered, fractal zoom, setting colors to pixels and linear interpolation.&#xA;Opened my eyes to what things could be&amp;hellip;.&#xA;Github</description>
+      <description>&lt;p&gt;Huh, my first small project when I was dwiddling with CSE, as a fresher while I was still learning git. I managed to learn quite a bit about fractals, specifically mandelbrot set, how images are rendered, fractal zoom, setting colors to pixels and linear interpolation.&lt;/p&gt;&#xA;&lt;p&gt;Opened my eyes to what things could be&amp;hellip;.&lt;/p&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://github.com/0ju1c3/Mandelbrot-set&#34;&gt;Github&lt;/a&gt;&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

@@ -13,7 +13,7 @@
       <link>http://localhost:1313/projects/windowmanagers/</link>
       <pubDate>Sat, 02 Mar 2024 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/projects/windowmanagers/</guid>
-      <description>Hyprland Hyprland is a dynamic and modern Wayland compositor for Linux, specifically designed to offer flexibility, customization, and performance. As part of the new wave of Wayland compositors, it is built from the ground up with a focus on modern standards and advanced features, setting it apart from older X11-based window managers.&#xA;In my opinion, Hyprland is the best tiling window manager available today and has quickly become my favorite. If you&amp;rsquo;re interested, you can check out my personal configuration here.</description>
+      <description>&lt;h2 id=&#34;hyprland&#34;&gt;Hyprland&lt;/h2&gt;&#xA;&lt;p&gt;Hyprland is a dynamic and modern Wayland compositor for Linux, specifically designed to offer flexibility, customization, and performance. As part of the new wave of Wayland compositors, it is built from the ground up with a focus on modern standards and advanced features, setting it apart from older X11-based window managers.&lt;/p&gt;&#xA;&lt;p&gt;In my opinion, Hyprland is the best tiling window manager available today and has quickly become my favorite. If you&amp;rsquo;re interested, you can check out my personal configuration &lt;a href=&#34;https://github.com/0ju1c3/hyprland&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

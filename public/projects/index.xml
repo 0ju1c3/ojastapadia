@@ -13,14 +13,14 @@
       <link>http://localhost:1313/projects/portfolio/</link>
       <pubDate>Thu, 08 Aug 2024 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/projects/portfolio/</guid>
-      <description>The website that you are using now!&#xA;Built using hugo framework and deployed on vercel.&#xA;Code</description>
+      <description>&lt;p&gt;The website that you are using now!&lt;/p&gt;&#xA;&lt;p&gt;Built using hugo framework and deployed on vercel.&lt;/p&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://github.com/0ju1c3/ojastapadia&#34;&gt;Code&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Current Neovim Config</title>
       <link>http://localhost:1313/projects/currentnvimconfig/</link>
       <pubDate>Mon, 29 Jul 2024 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/projects/currentnvimconfig/</guid>
-      <description>My current neovim config using kickstart.nvim and lazy.nvim plugin manager can be found here.&#xA;kickstart.nvim comes preconfigured with every important plugin that is required to make neovim into a fully-functioning-better-than-vscode(in my opinion) ide lazy.nvim is a super cool package manager with lazy loading PS: shoutout to Tj Devries and folke</description>
+      <description>&lt;p&gt;My current neovim config using &lt;a href=&#34;https://github.com/folke/lazy.nvim&#34;&gt;kickstart.nvim&lt;/a&gt; and &lt;a href=&#34;https://github.com/nvim-lua/kickstart.nvim&#34;&gt;lazy.nvim plugin manager&lt;/a&gt; can be found &lt;a href=&#34;https://github.com/0ju1c3/kickstart-nvim/&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;kickstart.nvim comes preconfigured with every important plugin that is required to make neovim into a fully-functioning-better-than-vscode(in my opinion) ide&lt;/li&gt;&#xA;&lt;li&gt;lazy.nvim is a super cool package manager with lazy loading&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;PS: shoutout to Tj Devries and folke&lt;/p&gt;</description>
     </item>
     <item>
       <title>Terminal Portfolio</title>
@@ -34,56 +34,56 @@
       <link>http://localhost:1313/projects/windowmanagers/</link>
       <pubDate>Sat, 02 Mar 2024 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/projects/windowmanagers/</guid>
-      <description>Hyprland Hyprland is a dynamic and modern Wayland compositor for Linux, specifically designed to offer flexibility, customization, and performance. As part of the new wave of Wayland compositors, it is built from the ground up with a focus on modern standards and advanced features, setting it apart from older X11-based window managers.&#xA;In my opinion, Hyprland is the best tiling window manager available today and has quickly become my favorite. If you&amp;rsquo;re interested, you can check out my personal configuration here.</description>
+      <description>&lt;h2 id=&#34;hyprland&#34;&gt;Hyprland&lt;/h2&gt;&#xA;&lt;p&gt;Hyprland is a dynamic and modern Wayland compositor for Linux, specifically designed to offer flexibility, customization, and performance. As part of the new wave of Wayland compositors, it is built from the ground up with a focus on modern standards and advanced features, setting it apart from older X11-based window managers.&lt;/p&gt;&#xA;&lt;p&gt;In my opinion, Hyprland is the best tiling window manager available today and has quickly become my favorite. If you&amp;rsquo;re interested, you can check out my personal configuration &lt;a href=&#34;https://github.com/0ju1c3/hyprland&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;</description>
     </item>
     <item>
       <title>First Neovim Config</title>
       <link>http://localhost:1313/projects/initialnvimconfig/</link>
       <pubDate>Fri, 09 Feb 2024 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/projects/initialnvimconfig/</guid>
-      <description>My first and my own neovim config using packer.nvim.&#xA;Super proud of this config!</description>
+      <description>&lt;p&gt;My first and my own neovim config using packer.nvim.&lt;/p&gt;&#xA;&lt;p&gt;Super proud of this &lt;a href=&#34;https://github.com/0ju1c3/custom_nvim_config&#34;&gt;config!&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Contact Manager Backend using REST API</title>
       <link>http://localhost:1313/projects/contactmanagerapi/</link>
       <pubDate>Sat, 03 Feb 2024 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/projects/contactmanagerapi/</guid>
-      <description>My first Backend REST API using nodejs, expressjs, mongodb. Find code here</description>
+      <description>&lt;p&gt;My first Backend REST API using nodejs, expressjs, mongodb.&#xA;&lt;a href=&#34;https://github.com/0ju1c3/Contact-Manager&#34;&gt;Find code here&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>ChatGPT Chatbot CLI</title>
       <link>http://localhost:1313/projects/chatgptchatbot/</link>
       <pubDate>Mon, 15 Jan 2024 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/projects/chatgptchatbot/</guid>
-      <description>Wanted to try out openai&amp;rsquo;s api when chatgpt first came along. Code</description>
+      <description>&lt;p&gt;Wanted to try out openai&amp;rsquo;s api when chatgpt first came along.&#xA;&lt;a href=&#34;https://github.com/0ju1c3/ChatGPT-ChatBot&#34;&gt;Code&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Web Audio Visualizer</title>
       <link>http://localhost:1313/projects/audiovisualizer/</link>
       <pubDate>Sun, 29 Oct 2023 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/projects/audiovisualizer/</guid>
-      <description>My second project while exploring frontend domain outside of the cliche websites and use of html, css and js.&#xA;Implemented using WebAudio API, Canvas API and vanilla html, css and js.&#xA;Takes sound from microphone as input, so has its own bit of problems but got to learn about converting sound to numbers and create bars of appropriate length and use case of fast-fourier transforms which was being taught in my class at that time.</description>
+      <description>&lt;p&gt;My second project while exploring frontend domain outside of the cliche websites and use of html, css and js.&lt;/p&gt;&#xA;&lt;p&gt;Implemented using WebAudio API, Canvas API and vanilla html, css and js.&lt;/p&gt;&#xA;&lt;p&gt;Takes sound from microphone as input, so has its own bit of problems but got to learn about converting sound to numbers and create bars of appropriate length and use case of fast-fourier transforms which was being taught in my class at that time.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Bubbly - Web game</title>
       <link>http://localhost:1313/projects/bubbly/</link>
       <pubDate>Sat, 23 Sep 2023 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/projects/bubbly/</guid>
-      <description>Made using Canvas API and vanilla html, css and js.&#xA;Learnt a lot about implementing game mechanics, fluid mechanics, physics, collision in javascript. Since, this was my first big project, I learnt why clean and organized codind is important and is pivotal in code readability.&#xA;Play&#xA;Code</description>
+      <description>&lt;p&gt;Made using Canvas API and vanilla html, css and js.&lt;/p&gt;&#xA;&lt;p&gt;Learnt a lot about implementing game mechanics, fluid mechanics, physics, collision in javascript. Since, this was my first big project, I learnt why clean and organized codind is important and is pivotal in code readability.&lt;/p&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://0ju1c3.github.io/Bubbly/&#34;&gt;Play&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://github.com/0ju1c3/Bubbly&#34;&gt;Code&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Social Networking REST API</title>
       <link>http://localhost:1313/projects/socialnetworkingapi/</link>
       <pubDate>Thu, 16 Mar 2023 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/projects/socialnetworkingapi/</guid>
-      <description>Built this as an internship task using MongoDB, Nodejs, Express&#xA;Code Overview Task is to design and implement a RESTful API for a basic social networking application using Node.js and MongoDB. The application will support user profiles, posts (text-based), and the ability to follow other users. Focus on backend development, emphasizing MongoDB for data storage, efficient data retrieval, and data relationship management.&#xA;Requirements User Profiles: Implement endpoints to create, update, view, and delete user profiles.</description>
+      <description>&lt;p&gt;Built this as an internship task using MongoDB, Nodejs, Express&lt;/p&gt;&#xA;&lt;h3 id=&#34;code1&#34;&gt;&lt;a href=&#34;https://github.com/0ju1c3/Nodejs-intern-assignment-3-submission&#34;&gt;Code&lt;/a&gt;&lt;/h3&gt;&#xA;&lt;h2 id=&#34;overview&#34;&gt;Overview&lt;/h2&gt;&#xA;&lt;p&gt;Task is to design and implement a RESTful API for a basic social networking application using Node.js and MongoDB. The application will support user profiles, posts (text-based), and the ability to follow other users. Focus on backend development, emphasizing MongoDB for data storage, efficient data retrieval, and data relationship management.&lt;/p&gt;&#xA;&lt;h2 id=&#34;requirements&#34;&gt;Requirements&lt;/h2&gt;&#xA;&lt;h3 id=&#34;user-profiles&#34;&gt;User Profiles:&lt;/h3&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Implement endpoints to create, update, view, and delete user profiles. Include details like username, bio, and profile picture URL, use uuid for user-ids.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h3 id=&#34;authentication&#34;&gt;Authentication:&lt;/h3&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Implement JWT-based authentication to secure the API. Ensure users can sign up, log in, and perform actions on behalf of their profiles.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h3 id=&#34;posts&#34;&gt;Posts:&lt;/h3&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Allow users to create, view, update, and delete their posts. A post should include text content, a timestamp, and the ID of the user who created it.&lt;/li&gt;&#xA;&lt;li&gt;Implement an endpoint to view the latest posts from users that a given user follows.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h3 id=&#34;following-mechanism&#34;&gt;Following Mechanism:&lt;/h3&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Enable users to follow and unfollow other users. Ensure there&amp;rsquo;s an endpoint to retrieve the list of users a given user is following and who is following them.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h3 id=&#34;efficient-data-retrieval&#34;&gt;Efficient Data Retrieval:&lt;/h3&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Use MongoDB&amp;rsquo;s aggregation framework to implement efficient queries for the social feed, where users can see posts from people they follow, sorted by the most recent.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h3 id=&#34;data-modeling&#34;&gt;Data Modeling:&lt;/h3&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Design MongoDB schemas for users, posts, and follows. Consider the use of references or embedded documents for optimal performance and query efficiency.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h3 id=&#34;security-and-validation&#34;&gt;Security and Validation:&lt;/h3&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Ensure input validation to prevent injection attacks and other common security vulnerabilities.&lt;/li&gt;&#xA;&lt;li&gt;Implement rate limiting to protect against brute force attacks.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h3 id=&#34;testing&#34;&gt;Testing:&lt;/h3&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Write integration tests for your API endpoints to ensure they work as expected and handle errors gracefully.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h3 id=&#34;documentation&#34;&gt;Documentation:&lt;/h3&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Provide comprehensive API documentation that includes endpoint descriptions, request/response formats, and example use cases.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;deliverables&#34;&gt;Deliverables&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Source code for the API, including all models, routes, and controllers.&lt;/li&gt;&#xA;&lt;li&gt;MongoDB schema designs.&lt;/li&gt;&#xA;&lt;li&gt;A collection of integration tests.&lt;/li&gt;&#xA;&lt;li&gt;API documentation.&lt;/li&gt;&#xA;&lt;li&gt;A README file with setup instructions, including any environment variables needed and steps to get the application running.&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
     </item>
     <item>
       <title>Mandelbrot set</title>
       <link>http://localhost:1313/projects/mandelbrotset/</link>
       <pubDate>Sat, 29 Oct 2022 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/projects/mandelbrotset/</guid>
-      <description>Huh, my first small project when I was dwiddling with CSE, as a fresher while I was still learning git. I managed to learn quite a bit about fractals, specifically mandelbrot set, how images are rendered, fractal zoom, setting colors to pixels and linear interpolation.&#xA;Opened my eyes to what things could be&amp;hellip;.&#xA;Github</description>
+      <description>&lt;p&gt;Huh, my first small project when I was dwiddling with CSE, as a fresher while I was still learning git. I managed to learn quite a bit about fractals, specifically mandelbrot set, how images are rendered, fractal zoom, setting colors to pixels and linear interpolation.&lt;/p&gt;&#xA;&lt;p&gt;Opened my eyes to what things could be&amp;hellip;.&lt;/p&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://github.com/0ju1c3/Mandelbrot-set&#34;&gt;Github&lt;/a&gt;&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
