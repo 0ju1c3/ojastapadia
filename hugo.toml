@@ -70,7 +70,7 @@ url = "https://github.com/0ju1c3"
 name = "home"
 url = "/"
 
-#[[params.menu]]
+[[params.menu]]
 name = "projects"
 identifier = 'home'
 url = "/projects"
