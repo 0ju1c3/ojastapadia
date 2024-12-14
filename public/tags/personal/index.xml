@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Personal on Ojas Tapadia</title>
+    <link>https://example.org/tags/personal/</link>
+    <description>Recent content in Personal on Ojas Tapadia</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 29 Oct 2023 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://example.org/tags/personal/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Starting My Own Blog!</title>
+      <link>https://example.org/second-brain/starting-my-own-blog/</link>
+      <pubDate>Sun, 29 Oct 2023 00:00:00 +0000</pubDate>
+      <guid>https://example.org/second-brain/starting-my-own-blog/</guid>
+      <description>&lt;p&gt;I love watching videos of &lt;a href=&#34;https://www.youtube.com/@NetworkChuck&#34;&gt;NetworkChuck&lt;/a&gt; and recently he published a &lt;a href=&#34;https://www.youtube.com/watch?v=dnE7c0ELEH8&amp;amp;t=1054s&#34;&gt;video&lt;/a&gt; and I WAS HOOKED!&#xA;In the video, he references &lt;strong&gt;Building a Second Brain by Tiago Forte&lt;/strong&gt;, and I have been reading it since then, and I love it!&lt;/p&gt;&#xA;&lt;p&gt;Making a blog has always been something that I wanted to do, but lacked in skills and insights that I can provide. But after reading, even a few chapters of it, I can&amp;rsquo;t help make a blog or &lt;strong&gt;second brain&lt;/strong&gt; of my own.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

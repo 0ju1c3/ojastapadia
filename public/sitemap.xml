@@ -71,6 +71,12 @@
     <loc>https://example.org/projects/chatgptchatbot/</loc>
     <lastmod>2024-01-15T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>https://example.org/tags/personal/</loc>
+    <lastmod>2023-10-29T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://example.org/second-brain/starting-my-own-blog/</loc>
+    <lastmod>2023-10-29T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://example.org/projects/audiovisualizer/</loc>
     <lastmod>2023-10-29T00:00:00+00:00</lastmod>
   </url><url>
@@ -78,6 +84,9 @@
     <lastmod>2023-09-23T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://example.org/projects/</loc>
+    <lastmod>2023-07-15T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://example.org/second-brain/</loc>
     <lastmod>2023-07-15T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://example.org/projects/socialnetworkingapi/</loc>

@@ -8,7 +8,7 @@ extended = false
 min = "0.116.0"
 
 languageCode = 'en-us'
-title = 'My portfolio website'
+title = "Ojas Tapadia's portfolio website"
 
 [taxonomies]
 tag = 'tags'
@@ -18,7 +18,7 @@ tag = 'tags'
 
 [params]
 # Meta description
-description = "Portfolio Website"
+description = "Ojas Tapadia's Portfolio Website"
 
 # Appearance settings
 theme = 'auto'
@@ -33,8 +33,8 @@ I'm a third-year Computer Science and Engineering (CSE) student at VIT Vellore.
 My journey into coding began with an intriguing experiment in the summer of 2019. Despite its quirks, this experiment turned out to be one of my best decisions, guiding me to a field I'm genuinely passionate about"""
 
 # Collection to display on home
-# homeCollectionTitle = 'Posts'
-# homeCollection = 'posts'
+homeCollectionTitle = 'Second Brain'
+homeCollection = 'second-brain'
 
 # Lists parameters
 paginationSize = 100
@@ -70,10 +70,15 @@ url = "https://github.com/0ju1c3"
 name = "home"
 url = "/"
 
+# [[params.menu]]
+# name = "projects"
+# identifier = 'home'
+# url = "/projects"
+
 [[params.menu]]
-name = "projects"
+name = "second-brain"
 identifier = 'home'
-url = "/projects"
+url = "/second-brain"
 
 [[params.menu]]
 name = "about"
