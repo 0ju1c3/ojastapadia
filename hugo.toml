@@ -75,10 +75,10 @@ url = "/"
 # identifier = 'home'
 # url = "/projects"
 
-[[params.menu]]
-name = "second-brain"
-identifier = 'home'
-url = "/second-brain"
+# [[params.menu]]
+# name = "second-brain"
+# identifier = 'home'
+# url = "/second-brain"
 
 [[params.menu]]
 name = "about"
